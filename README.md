@@ -3,7 +3,7 @@ Hi 👋 My name is Rodrigo Trevelin
 Full Stack Engineer 
 -------------------
 * 🌍  I'm based in São Paulo, Brazil 
-* ✉️  You can contact me at [jobs@rodrigotrevelin.com](mailto:jobs@rodrigotrevelin.com) 
+* ✉️  You can contact me at [contato@rodrigotrevelin.com](mailto:contato@rodrigotrevelin.com) 
 * 🚀  I'm currently working on [My Portfolio](http://rodrigotrevelin.com) 
 * 🧠  I'm learning Angular 
 * 🤝  I'm open to collaborating on Full Stack projects
